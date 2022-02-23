@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Byron Calvete from CX-IT
 - 👀 I’m interested in sports, read, apps and drones
 
-- 🕵 I’m currently learning Golang, Python and JS
+- 🕵 I’m currently working with JS and Golang
 
 - ✅ I’m looking to collaborate on all JavaScript Projects
 
